@@ -41,8 +41,6 @@
 *  2) tf and tf2
 *********************************************************************/
 
-#define _USE_MATH_DEFINES
-
 #include <ros/ros.h>
 #include <nodelet/nodelet.h>
 #include <tf2_ros/transform_listener.h>
